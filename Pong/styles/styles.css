@@ -1,0 +1,9 @@
+.canvasContainer {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+canvas {
+    display: inline;
+}
