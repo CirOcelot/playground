@@ -1,9 +1,23 @@
 .canvasContainer {
-    justify-content: center;
-    text-align: center;
     width: 100%;
+    text-align: center;
 }
 
 canvas {
     display: inline;
+    padding: 5rem;
+}
+
+* {
+    background-color: aqua;
+}
+
+.title {
+    text-align: center;
+    color: green;
+}
+
+.navLink {
+    text-align: center;
+    
 }
